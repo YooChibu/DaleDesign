@@ -1,0 +1,106 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "모던 웹사이트 리뉴얼",
+      "thumbnail": "https://via.placeholder.com/400x300/4A90E2/FFFFFF?text=웹사이트+리뉴얼",
+      "images": [
+        "https://via.placeholder.com/800x600/4A90E2/FFFFFF?text=메인+페이지",
+        "https://via.placeholder.com/800x600/50C878/FFFFFF?text=서브+페이지",
+        "https://via.placeholder.com/800x600/FF6B6B/FFFFFF?text=모바일+버전"
+      ],
+      "period": "2024.01 - 2024.03",
+      "client": "테크스타트업",
+      "industry": "IT/소프트웨어",
+      "style": "미니멀리즘, 모던",
+      "mainColor": "#4A90E2",
+      "category": "web",
+      "description": "사용자 경험을 중시한 모던한 웹사이트 리뉴얼 프로젝트입니다."
+    },
+    {
+      "id": "project2",
+      "title": "브랜드 아이덴티티 디자인",
+      "thumbnail": "https://via.placeholder.com/400x300/FF6B6B/FFFFFF?text=브랜드+디자인",
+      "images": [
+        "https://via.placeholder.com/800x600/FF6B6B/FFFFFF?text=로고+디자인",
+        "https://via.placeholder.com/800x600/FF8C42/FFFFFF?text=브랜드+가이드",
+        "https://via.placeholder.com/800x600/FFD93D/FFFFFF?text=응용+디자인"
+      ],
+      "period": "2024.02 - 2024.04",
+      "client": "푸드&베버리지",
+      "industry": "식음료",
+      "style": "플레이풀, 컬러풀",
+      "mainColor": "#FF6B6B",
+      "category": "brand",
+      "description": "젊고 활기찬 브랜드 이미지를 표현한 아이덴티티 디자인입니다."
+    },
+    {
+      "id": "project3",
+      "title": "프로모션 카탈로그",
+      "thumbnail": "https://via.placeholder.com/400x300/50C878/FFFFFF?text=카탈로그+디자인",
+      "images": [
+        "https://via.placeholder.com/800x600/50C878/FFFFFF?text=표지+디자인",
+        "https://via.placeholder.com/800x600/20B2AA/FFFFFF?text=내지+레이아웃",
+        "https://via.placeholder.com/800x600/9370DB/FFFFFF?text=제품+사진"
+      ],
+      "period": "2024.03 - 2024.05",
+      "client": "패션 브랜드",
+      "industry": "패션/뷰티",
+      "style": "엘레간트, 럭셔리",
+      "mainColor": "#50C878",
+      "category": "print",
+      "description": "고급스러운 이미지를 전달하는 프로모션 카탈로그입니다."
+    },
+    {
+      "id": "project4",
+      "title": "모바일 앱 UI/UX",
+      "thumbnail": "https://via.placeholder.com/400x300/9370DB/FFFFFF?text=모바일+앱",
+      "images": [
+        "https://via.placeholder.com/800x600/9370DB/FFFFFF?text=메인+화면",
+        "https://via.placeholder.com/800x600/8A2BE2/FFFFFF?text=기능+화면",
+        "https://via.placeholder.com/800x600/4B0082/FFFFFF?text=설정+화면"
+      ],
+      "period": "2024.04 - 2024.06",
+      "client": "핀테크 기업",
+      "industry": "금융/핀테크",
+      "style": "신뢰감, 직관적",
+      "mainColor": "#9370DB",
+      "category": "web",
+      "description": "사용자 친화적인 모바일 앱 인터페이스 디자인입니다."
+    },
+    {
+      "id": "project5",
+      "title": "패키지 디자인",
+      "thumbnail": "https://via.placeholder.com/400x300/FF8C42/FFFFFF?text=패키지+디자인",
+      "images": [
+        "https://via.placeholder.com/800x600/FF8C42/FFFFFF?text=패키지+전면",
+        "https://via.placeholder.com/800x600/FF6347/FFFFFF?text=패키지+후면",
+        "https://via.placeholder.com/800x600/FF4500/FFFFFF?text=실제+제품"
+      ],
+      "period": "2024.05 - 2024.07",
+      "client": "화장품 브랜드",
+      "industry": "뷰티/화장품",
+      "style": "내추럴, 오가닉",
+      "mainColor": "#FF8C42",
+      "category": "print",
+      "description": "자연 친화적인 이미지를 담은 패키지 디자인입니다."
+    },
+    {
+      "id": "project6",
+      "title": "기업 브랜딩",
+      "thumbnail": "https://via.placeholder.com/400x300/20B2AA/FFFFFF?text=기업+브랜딩",
+      "images": [
+        "https://via.placeholder.com/800x600/20B2AA/FFFFFF?text=기업+로고",
+        "https://via.placeholder.com/800x600/48D1CC/FFFFFF?text=명함+디자인",
+        "https://via.placeholder.com/800x600/00CED1/FFFFFF?text=사무용품"
+      ],
+      "period": "2024.06 - 2024.08",
+      "client": "제조업체",
+      "industry": "제조/산업",
+      "style": "전문적, 신뢰감",
+      "mainColor": "#20B2AA",
+      "category": "brand",
+      "description": "기업의 전문성과 신뢰감을 표현한 브랜딩 프로젝트입니다."
+    }
+  ]
+}
