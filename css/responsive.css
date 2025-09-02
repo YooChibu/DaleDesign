@@ -111,7 +111,8 @@
     }
     
     .gallery-main img {
-        height: 400px;
+        height: 100%;
+        object-fit: contain;
     }
     
     .gallery-thumbnails {
@@ -246,7 +247,8 @@
     }
     
     .gallery-main img {
-        height: 300px;
+        height: 100%;
+        object-fit: contain;
     }
     
     .gallery-nav {
@@ -297,7 +299,8 @@
     }
     
     .gallery-main img {
-        height: 250px;
+        height: 100%;
+        object-fit: contain;
     }
     
     .gallery-thumbnails {

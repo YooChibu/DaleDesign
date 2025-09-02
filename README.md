@@ -167,4 +167,4 @@ http://localhost:8000
 
 ---
 
-**Dale Design** - 창의적인 디자인 프로젝트 갤러리
+**Dale Design** - 창의적인 디자인 프로젝트 갤러리 (2025)

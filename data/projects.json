@@ -1,15 +1,15 @@
 {
   "projects": [
     {
-      "id": "project1",
+      "id": "cafe115",
       "title": "모던 웹사이트 리뉴얼",
-      "thumbnail": "https://via.placeholder.com/400x300/4A90E2/FFFFFF?text=웹사이트+리뉴얼",
+      "thumbnail": "images/cafe115/cafe115_1.png",
       "images": [
-        "https://via.placeholder.com/800x600/4A90E2/FFFFFF?text=메인+페이지",
-        "https://via.placeholder.com/800x600/50C878/FFFFFF?text=서브+페이지",
-        "https://via.placeholder.com/800x600/FF6B6B/FFFFFF?text=모바일+버전"
+        "images/cafe115/cafe115_1.png",
+        "images/cafe115/cafe115_2.png",
+        "images/cafe115/cafe115_3.png"
       ],
-      "period": "2024.01 - 2024.03",
+      "period": "2025.01 - 2025.03",
       "client": "테크스타트업",
       "industry": "IT/소프트웨어",
       "style": "미니멀리즘, 모던",
@@ -18,15 +18,15 @@
       "description": "사용자 경험을 중시한 모던한 웹사이트 리뉴얼 프로젝트입니다."
     },
     {
-      "id": "project2",
+      "id": "heinne",
       "title": "브랜드 아이덴티티 디자인",
-      "thumbnail": "https://via.placeholder.com/400x300/FF6B6B/FFFFFF?text=브랜드+디자인",
+      "thumbnail": "images/heinne/heinne_1.png",
       "images": [
-        "https://via.placeholder.com/800x600/FF6B6B/FFFFFF?text=로고+디자인",
-        "https://via.placeholder.com/800x600/FF8C42/FFFFFF?text=브랜드+가이드",
-        "https://via.placeholder.com/800x600/FFD93D/FFFFFF?text=응용+디자인"
+        "images/heinne/heinne_1.png",
+        "images/heinne/heinne_2.png",
+        "images/heinne/heinne_3.png"
       ],
-      "period": "2024.02 - 2024.04",
+      "period": "2025.02 - 2025.04",
       "client": "푸드&베버리지",
       "industry": "식음료",
       "style": "플레이풀, 컬러풀",
@@ -37,13 +37,13 @@
     {
       "id": "project3",
       "title": "프로모션 카탈로그",
-      "thumbnail": "https://via.placeholder.com/400x300/50C878/FFFFFF?text=카탈로그+디자인",
+      "thumbnail": "images/project3/thumbnail.jpg",
       "images": [
-        "https://via.placeholder.com/800x600/50C878/FFFFFF?text=표지+디자인",
-        "https://via.placeholder.com/800x600/20B2AA/FFFFFF?text=내지+레이아웃",
-        "https://via.placeholder.com/800x600/9370DB/FFFFFF?text=제품+사진"
+        "images/project3/image1.jpg",
+        "images/project3/image2.jpg",
+        "images/project3/image3.jpg"
       ],
-      "period": "2024.03 - 2024.05",
+      "period": "2025.03 - 2025.05",
       "client": "패션 브랜드",
       "industry": "패션/뷰티",
       "style": "엘레간트, 럭셔리",
@@ -54,13 +54,13 @@
     {
       "id": "project4",
       "title": "모바일 앱 UI/UX",
-      "thumbnail": "https://via.placeholder.com/400x300/9370DB/FFFFFF?text=모바일+앱",
+      "thumbnail": "images/project4/thumbnail.jpg",
       "images": [
-        "https://via.placeholder.com/800x600/9370DB/FFFFFF?text=메인+화면",
-        "https://via.placeholder.com/800x600/8A2BE2/FFFFFF?text=기능+화면",
-        "https://via.placeholder.com/800x600/4B0082/FFFFFF?text=설정+화면"
+        "images/project4/image1.jpg",
+        "images/project4/image2.jpg",
+        "images/project4/image3.jpg"
       ],
-      "period": "2024.04 - 2024.06",
+      "period": "2025.04 - 2025.06",
       "client": "핀테크 기업",
       "industry": "금융/핀테크",
       "style": "신뢰감, 직관적",
@@ -71,13 +71,13 @@
     {
       "id": "project5",
       "title": "패키지 디자인",
-      "thumbnail": "https://via.placeholder.com/400x300/FF8C42/FFFFFF?text=패키지+디자인",
+      "thumbnail": "images/project5/thumbnail.jpg",
       "images": [
-        "https://via.placeholder.com/800x600/FF8C42/FFFFFF?text=패키지+전면",
-        "https://via.placeholder.com/800x600/FF6347/FFFFFF?text=패키지+후면",
-        "https://via.placeholder.com/800x600/FF4500/FFFFFF?text=실제+제품"
+        "images/project5/image1.jpg",
+        "images/project5/image2.jpg",
+        "images/project5/image3.jpg"
       ],
-      "period": "2024.05 - 2024.07",
+      "period": "2025.05 - 2025.07",
       "client": "화장품 브랜드",
       "industry": "뷰티/화장품",
       "style": "내추럴, 오가닉",
@@ -88,13 +88,13 @@
     {
       "id": "project6",
       "title": "기업 브랜딩",
-      "thumbnail": "https://via.placeholder.com/400x300/20B2AA/FFFFFF?text=기업+브랜딩",
+      "thumbnail": "images/project6/thumbnail.jpg",
       "images": [
-        "https://via.placeholder.com/800x600/20B2AA/FFFFFF?text=기업+로고",
-        "https://via.placeholder.com/800x600/48D1CC/FFFFFF?text=명함+디자인",
-        "https://via.placeholder.com/800x600/00CED1/FFFFFF?text=사무용품"
+        "images/project6/image1.jpg",
+        "images/project6/image2.jpg",
+        "images/project6/image3.jpg"
       ],
-      "period": "2024.06 - 2024.08",
+      "period": "2025.06 - 2025.08",
       "client": "제조업체",
       "industry": "제조/산업",
       "style": "전문적, 신뢰감",
